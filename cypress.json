@@ -1,0 +1,10 @@
+{
+    "viewportWith":1500,
+    "viewportHeight":900,
+    "chromeWebSecurity": false,
+    "experimentalStudio": true,
+
+
+    "testFiles": "**/*.feature"
+
+}

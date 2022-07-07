@@ -1,0 +1,5 @@
+1.- npm init
+2.- npm install cypress -- save dev --> INSTALACIO
+2.1  npm cypress install --force 
+2.2 
+3.- npx cypress open --> abrir cypress
